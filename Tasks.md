@@ -1,4 +1,4 @@
-# Complete
+# Completed
  - Frontend Review
  - Backend Review
 
